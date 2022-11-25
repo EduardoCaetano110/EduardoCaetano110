@@ -1,4 +1,4 @@
-#Olá! Sou Eduardo Caetano, mas pode me chamar só de Caetano. 👋
+##Olá! Sou Eduardo Caetano, mas pode me chamar só de Caetano. 👋
 
 -🌱Iniciante e estudante de programação
 
