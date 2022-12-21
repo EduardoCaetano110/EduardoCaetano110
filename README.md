@@ -1,6 +1,7 @@
 ##Olá! Sou Eduardo Caetano, mas pode me chamar só de Caetano. 👋
 
--🌱Iniciante e estudante de programação
+- Estudante de programação
+-🌱 PHP Inciante
 
 <a href="https://github.com/EduardoCaetano110">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardocaetano&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
