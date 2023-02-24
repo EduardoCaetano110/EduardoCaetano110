@@ -1,6 +1,6 @@
 ##Olá! Sou Eduardo Caetano, mas pode me chamar só de Caetano. 👋
 
-- Estudante de programação
+- Estudante de Analise e desenvolvimento de sistemas pela UVA.
 -🌱 PHP Inciante
 
 <a href="https://github.com/EduardoCaetano110">
