@@ -1,6 +1,8 @@
 ##Olá! Sou Eduardo Caetano, mas pode me chamar só de Caetano. 👋
 
 - Estudante de Analise e desenvolvimento de sistemas pela UVA.
+
+
 -🌱 C# Inciante
 
 <a href="https://github.com/EduardoCaetano110">
