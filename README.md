@@ -1,6 +1,10 @@
 #  About Me:
+
 🔭 I am currently studying systems analysis and development at UVA<br>👯 I’m looking to intership.<br>🌱 I’m currently learning C and C#.<br>💬 Ask me about everything, I like to talk about any subject!<br>⚡ Fun fact: I started to like programming because I'm enthusiastic about games and I'm loving it
 
+### PT-BR:
+
+🔭 Atualmente estou estudando análise e desenvolvimento de sistemas na UVA<br>👯 Estou procurando por estágio.<br>🌱 Atualmente estou aprendendo C e C#.<br>💬 Me pergunte sobre tudo, gosto de falar sobre qualquer assunto!<br>⚡ Curiosidade: Comecei a gostar de programar porque sou um entusiasta de jogos, estou amando tudo isso!
 
 ##  Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/eduardocaetanooo/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/eduardo-caetano-silva-do-nascimento-38421b1bb/) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/https://www.twitch.tv/japonesdu) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/channel/UCGlC-HlR_pGIaNAduohIV-g) 
