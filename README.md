@@ -1,9 +1,10 @@
-##Olá! Sou Eduardo Caetano, mas pode me chamar só de Caetano. 👋
+##Olá! Sou Eduardo Caetano 👋, comecei a estudar programação por que achei que seria interessante, e novidade? to adorando! 
 
-- Estudante de Analise e desenvolvimento de sistemas pela UVA.
+- Estudante de Analise e desenvolvimento de sistemas pela UVA (Atualmente no 1 Semestre).
 
 
 -🌱 C# Inciante
+-🌱 C Iniciante
 
 <a href="https://github.com/EduardoCaetano110">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardocaetano&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
