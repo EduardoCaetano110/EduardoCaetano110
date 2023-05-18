@@ -1,4 +1,4 @@
-##Olá! Sou Eduardo Caetano 👋, comecei a estudar programação por que achei que seria interessante, e novidade? to adorando! 
+#Olá! Sou Eduardo Caetano 👋, comecei a estudar programação por que achei que seria interessante, e novidade? to adorando! 
 
 - Estudante de Analise e desenvolvimento de sistemas pela UVA (Atualmente no 1 Semestre).
 
